@@ -1,0 +1,38 @@
+.container {
+    align-items: center;
+    justify-content: center;
+    border: 3px solid green;
+    padding: 10px;
+    background-color: rgb(213, 215, 208);
+    border-style: outset;
+}
+
+.card-header {
+    background-color: rgb(187, 188, 182);
+    font-size: 30px;
+    border-style: outset;
+    }
+
+.card-body {
+    background-color: rgb(238, 235, 231);
+}
+
+#btnRetry {
+    margin-top: 30px;
+    margin-left: 900px;
+    block-size: 100px;
+    width: 150px;
+    background-color: rgb(114, 194, 107);
+    color: black;
+    font-size: 30px;
+   }
+
+
+#clearBtn {
+    margin-top: 30px;
+    margin-left: 900px;
+    block-size: 100px;
+    width: 150px;
+    text-align: center;
+    font-size: 30px;
+    }
